@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Jooom_Online.About_Form" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACABAECAAAAAAgAAAAAAABAAAA=</HashCode>
+      <FileName>Default\About_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jooom_Online.StartMenu_Form" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAABAQKAAABAAAACABAECAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Default\StartMenu_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jooom_Online.Support_Form" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACABAECAAAAAAgAAAAAAABAAAA=</HashCode>
+      <FileName>Default\Support_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jooom_Online.StudentLogin_Form" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAQCAAABAAAECACAECAAQEAAgAAAAAAgQAEgA=</HashCode>
+      <FileName>Login\StudentLogin_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jooom_Online.TeacherLogin_Form" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAACAAABAAAECACAECAAQEAAgAAAAAAgQAEgA=</HashCode>
+      <FileName>Login\TeacherLogin_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jooom_Online.Program" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAABAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jooom_Online.StudentSignUp_Form" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAAAQACAAQBAAAECACBECAAQEAAgAAAAAAgAAEAA=</HashCode>
+      <FileName>Sign up\StudentSignUp_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jooom_Online.TeacherSignUp_Form" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAAAQACAAQBAAAECACBECAAQEAAgAAAAAAgAAEAA=</HashCode>
+      <FileName>Sign up\TeacherSignUp_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jooom_Online.UserLibrary" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Jooom_Online.UserLibrary.UserType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UserLibrary\CurrentUser.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="Jooom_Online.UserLibrary.User" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UserLibrary\CurrentUser.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="Jooom_Online.UserLibrary.SqlPairs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UserLibrary\SqlPairs.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Interface Name="Jooom_Online.UserLibrary.IUser" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UserLibrary\CurrentUser.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Interface>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgBAAAAAAAAAAAAYAIAAAIAACAAAAEAAAAAGAA=</HashCode>
+      <FileName>UserLibrary\CurrentUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jooom_Online.Download_Form" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABAgAACAAQBEAAASABAECAAAABEwBAAABAAAABwA=</HashCode>
+      <FileName>Webinar\Download_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jooom_Online.Watch_Form" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABAgAACAAABEAAACABAECAAABAEgBAAAAAAAIBgA=</HashCode>
+      <FileName>Webinar\Watch_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

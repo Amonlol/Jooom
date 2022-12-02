@@ -1,0 +1,8 @@
+# Visual Studio temp
+.vs
+
+# bin
+/Jooom\ Online/bin/
+
+# obj
+/Jooom\ Online/obj/
